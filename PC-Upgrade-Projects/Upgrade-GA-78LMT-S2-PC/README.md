@@ -28,7 +28,6 @@ This serves as a technical portfolio entry demonstrating practical hardware upgr
 ### After Upgrades
 - Installed RAM: [photos/new_ram_installed.jpg](photos/new_ram_installed.jpg)  
 - Installed SSD: [photos/new_ssd_installed.jpg](photos/new_ssd_installed.jpg)  
-- Optional: Disk Management screenshot showing initialized SSDs: [photos/disk_management.jpg](photos/disk_management.jpg)
 
 ---
 

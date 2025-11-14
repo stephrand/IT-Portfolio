@@ -19,12 +19,16 @@ This serves as a technical portfolio entry demonstrating practical hardware upgr
 
 ---
 
-## 📸 After Photos
+## 📸 Component Photos
 
-Photos showing the upgraded components:
+### Before Upgrades
+- Old RAM: [photos/old_ram.jpg](photos/old_ram.jpg)  
+- Old HDD: [photos/old_hdd.jpg](photos/old_hdd.jpg)
 
-- Installed RAM: [photos/ram_installed.jpg](photos/ram_installed.jpg)  
-- Installed SSD: [photos/ssd_installed.jpg](photos/ssd_installed.jpg)
+### After Upgrades
+- Installed RAM: [photos/new_ram_installed.jpg](photos/new_ram_installed.jpg)  
+- Installed SSD: [photos/new_ssd_installed.jpg](photos/new_ssd_installed.jpg)  
+- Optional: Disk Management screenshot showing initialized SSDs: [photos/disk_management.jpg](photos/disk_management.jpg)
 
 ---
 

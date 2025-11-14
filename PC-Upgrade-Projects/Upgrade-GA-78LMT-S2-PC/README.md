@@ -41,9 +41,3 @@ Photos showing the upgraded components:
 
 - Only after-photos are included, as before-photos were not available.  
 - All upgrades were tested to ensure stability and proper system recognition.
-
-
-## ⚡ Notes
-
-- Only after-photos are included; before-photos were not available.  
-- All upgrades were tested to ensure stability and proper system recognition.

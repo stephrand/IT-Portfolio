@@ -43,5 +43,5 @@ This serves as a technical portfolio entry demonstrating practical hardware upgr
 
 ## ⚡ Notes
 
-- Only after-photos are included, as before-photos were not available.  
-- All upgrades were tested to ensure stability and proper system recognition.
+- Both before and after photos are included to show the upgrade process.  
+- All upgrades were tested to ensure system stability and correct hardware recognition.

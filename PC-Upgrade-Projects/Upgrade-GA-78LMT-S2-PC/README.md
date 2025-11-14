@@ -2,12 +2,12 @@
 
 This project documents the upgrade of a Gigabyte GA-78LMT-S2 PC, including:
 
-- RAM upgrade from 8GB to 16GB  
-- Storage upgrade (HDD → SSD)  
-- BIOS configuration for new hardware  
-- Clean installation of Windows 10 Home  
+- Upgrading RAM from 8GB to 16GB  
+- Replacing HDD with a new SSD  
+- Configuring BIOS to detect new hardware  
+- Performing a clean installation of Windows 10 Home  
 
-It is intended as a technical portfolio entry demonstrating hardware upgrade skills and system setup.
+This serves as a technical portfolio entry demonstrating practical hardware upgrade skills and system setup.
 
 ---
 
@@ -21,25 +21,27 @@ It is intended as a technical portfolio entry demonstrating hardware upgrade ski
 
 ## 📸 After Photos
 
-Here are some after-photos of the upgraded PC. Replace the placeholders with your actual filenames:
+Photos showing the upgraded components:
 
 - Installed RAM: [photos/ram_installed.jpg](photos/ram_installed.jpg)  
-- Installed SSDs: [photos/ssd_setup.jpg](photos/ssd_setup.jpg)  
-- BIOS showing RAM & SSD: [photos/bios_ram_ssd.jpg](photos/bios_ram_ssd.jpg)  
-- Disk Management showing SSDs: [photos/disk_management_ssd.jpg](photos/disk_management_ssd.jpg)
-
-> You can remove or rename any photo links based on what you have.
+- Installed SSD: [photos/ssd_installed.jpg](photos/ssd_installed.jpg)
 
 ---
 
 ## 🔍 Lessons Learned
 
-- Properly configuring BIOS for new hardware is essential for stability.  
-- Clean installation of Windows 10 ensures optimal SSD performance.  
-- Upgrading RAM and replacing HDDs with SSDs significantly improves boot time and overall system responsiveness.  
-- Documenting each step of a hardware upgrade is important for troubleshooting and future reference.
+- Upgrading RAM and replacing an HDD with an SSD significantly improves system performance.  
+- Clean Windows installation ensures optimal SSD performance and system stability.  
+- Documenting each step of a hardware upgrade is important for troubleshooting and future reference.  
+- Verifying hardware recognition in BIOS and Windows is critical before completing the setup.
 
 ---
+
+## ⚡ Notes
+
+- Only after-photos are included, as before-photos were not available.  
+- All upgrades were tested to ensure stability and proper system recognition.
+
 
 ## ⚡ Notes
 

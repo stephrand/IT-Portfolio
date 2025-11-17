@@ -1,2 +1,2 @@
 # IT-Portfolio
-IT Support &amp; Home Lab Projects
+IT Support &amp; Home Lab Projects &amp; Certifications

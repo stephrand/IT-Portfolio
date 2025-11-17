@@ -10,7 +10,7 @@ This document lists the *original hardware*, the *upgrades performed*, and the *
 - Gigabyte GA-78LMT-S2 (AM3+ socket)
 
 **CPU:**  
-- (unk)
+- AMD FX(tm)-6300 Six-Core Processor
 
 **GPU:**  
 - Micro-Star / MSI  
@@ -46,7 +46,7 @@ This document lists the *original hardware*, the *upgrades performed*, and the *
 - Gigabyte GA-78LMT-S2
 
 **CPU:**  
-- (unk)
+- AMD FX(tm)-6300 Six-Core Processor
 
 **GPU:**  
 - MSI MS-V301

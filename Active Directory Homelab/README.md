@@ -20,6 +20,12 @@ The Domain Controller was configured with Active Directory Domain Services and D
 
 ![Server Manager Overview](screenshots/server-manager-overview.png)
 
+## Domain Controller
+
+The Windows Server 2016 machine was promoted to a Domain Controller and renamed to SCRANTON1.
+
+![Domain Controller](screenshots/domain-controller.png)
+
 ### Servers
 
 * Windows Server 2016 Domain Controller

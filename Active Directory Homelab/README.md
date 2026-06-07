@@ -23,7 +23,7 @@ The Domain Controller was configured with Active Directory Domain Services and D
 ### Servers
 
 * Windows Server 2016 Domain Controller
-* Hostname: SCRANTON1
+* Hostname: DC01
 * Domain: dundermifflin.local
 
 ### Clients

@@ -1,4 +1,4 @@
-# Active Directory Homelab (Dunder Mifflin)
+# Active Directory Homelab
 
 ## Project Overview
 

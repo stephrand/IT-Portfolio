@@ -8,6 +8,18 @@ The objective was to gain hands-on experience with Active Directory administrati
 
 ## Environment
 
+- Windows Server 2016
+- Windows 10 Client
+- Active Directory Domain Services
+- DNS
+- Group Policy
+
+## Server Manager Overview
+
+The Domain Controller was configured with Active Directory Domain Services and DNS.
+
+![Server Manager Overview](screenshots/server-manager-overview.png)
+
 ### Servers
 
 * Windows Server 2016 Domain Controller

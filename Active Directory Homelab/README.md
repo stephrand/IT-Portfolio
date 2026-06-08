@@ -14,7 +14,7 @@ The objective was to gain hands-on experience with Active Directory administrati
 - DNS
 - Group Policy
 
-## Server Manager Overview
+## Server Configuration
 
 The Domain Controller was configured with Active Directory Domain Services and DNS.
 
@@ -48,6 +48,12 @@ The Windows Server 2016 machine was promoted to a Domain Controller and renamed 
 * Security Groups
 
 ## Active Directory Design
+
+## Active Directory Structure
+
+This shows the OU structure, user accounts, and security groups used to organize the Dunder Mifflin environment.
+
+![Active Directory Structure](screenshots/domain-users-ou-grp.png)
 
 ### Organizational Units
 
@@ -92,16 +98,34 @@ The Windows Server 2016 machine was promoted to a Domain Controller and renamed 
 * Mapped H: drive for all users
 * Tested Group Policy deployment
 
+## Group Policy Configuration
+
+This GPO maps user home directories to the H: drive using the %USERNAME% variable.
+
+![GPO Drive Mapping](screenshots/gpo-drive-mapping.png)
+
 ### File Services
 
 * Created Home share
 * Generated home folders using PowerShell
 * Configured per-user home directories
 
+## Home Folder Automation
+
+This demonstrates automated creation of user home directories using PowerShell based on AD usernames.
+
+![PowerShell Home Folder Creation](screenshots/powershell-home-folder-creation.png)
+
 ### Roaming Profiles
 
 * Created roaming profile share
 * Assigned profile paths to domain users
+
+## Validation
+
+This confirms the Windows 10 client is domain joined and successfully receiving the mapped home drive via Group Policy.
+
+![Domain Join and Home Drive](screenshots/mapped-home-drive-domain-join.png)
 
 ## Skills Demonstrated
 

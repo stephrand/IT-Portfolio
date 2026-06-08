@@ -19,7 +19,7 @@ Skills demonstrated:
 * Roaming Profiles
 
 Project folder:
-➡️ [View Project](Active Directory Homelab)
+➡️ [View Project](https://github.com/stephrand/IT-Portfolio/tree/90940132e93b65c5d9a6444c1fbad71488dbcf0a/Active%20Directory%20Homelab)
 
 ### PC Upgrade Project
 

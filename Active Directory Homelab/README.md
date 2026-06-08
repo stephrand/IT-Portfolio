@@ -14,12 +14,6 @@ The objective was to gain hands-on experience with Active Directory administrati
 - DNS
 - Group Policy
 
-## Server Configuration
-
-The Domain Controller was configured with Active Directory Domain Services and DNS.
-
-![Domain Controller](screenshots/domain-controller.png)
-
 ### Servers
 
 * Windows Server 2016 Domain Controller
@@ -30,18 +24,11 @@ The Domain Controller was configured with Active Directory Domain Services and D
 
 * Windows 10 Domain-Joined Workstation
 
-## Technologies Used
+## Server Configuration
 
-* Active Directory Domain Services (AD DS)
-* DNS
-* Group Policy Management
-* PowerShell
-* Windows File Shares
-* Roaming Profiles
-* Organizational Units (OUs)
-* Security Groups
+The Domain Controller was configured with Active Directory Domain Services and DNS.
 
-## Active Directory Design
+![Domain Controller](screenshots/domain-controller.png)
 
 ## Active Directory Structure
 
@@ -106,7 +93,7 @@ This GPO maps user home directories to the H: drive using the %USERNAME% variabl
 
 ## Home Folder Automation
 
-This demonstrates automated creation of user home directories using PowerShell based on AD usernames.
+Automated creation of user home directories was implemented using PowerShell based on Active Directory usernames.
 
 ![PowerShell Home Folder Creation](screenshots/powershell-home-folder-creation.png)
 

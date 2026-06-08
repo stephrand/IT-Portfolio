@@ -34,7 +34,7 @@ Skills demonstrated:
 * Troubleshooting
 
 Project folder:
-➡️ [View Project](Upgrade-GA-78LMT-S2-PC)
+➡️ [View Project](PC-Upgrade-Projects/Upgrade-GA-78LMT-S2-PC)
 
 ## Technologies Used
 

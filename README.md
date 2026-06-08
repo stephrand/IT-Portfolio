@@ -19,7 +19,7 @@ Skills demonstrated:
 * Roaming Profiles
 
 Project folder:
-➡️ [View Project](Active-Directory-Homelab)
+➡️ [View Project](Active Directory Homelab)
 
 ### PC Upgrade Project
 

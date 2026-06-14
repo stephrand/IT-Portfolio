@@ -26,15 +26,15 @@ The policy was designed to reduce the attack surface available to standard users
 
 Control Panel restriction successfully configured through Group Policy.
 
-![Block Control Panel](screenshots/block-ctrl-panel.png)
+![Block Control Panel](../screenshots/block-ctrl-panel.png)
 
 Command Prompt and PowerShell restrictions successfully configured.
 
-![Block CMD and PowerShell](screenshots/block-cmd-powershell.png)
+![Block CMD and PowerShell](../screenshots/block-cmd-powershell.png)
 
 Run menu successfully removed through Group Policy.
 
-![Remove Run Menu](screenshots/remove-run-menu.png)
+![Remove Run Menu](../screenshots/remove-run-menu.png)
 
 ---
 
@@ -66,7 +66,7 @@ The baseline provides consistent security controls across all domain-joined work
 
 Microsoft Defender Antivirus was enforced through Group Policy.
 
-![Windows Defender](screenshots/windows-defender.png)
+![Windows Defender](../screenshots/windows-defender.png)
 
 ---
 
@@ -74,7 +74,7 @@ Microsoft Defender Antivirus was enforced through Group Policy.
 
 Firewall protection was enabled for Domain, Private, and Public profiles.
 
-![Windows Firewall](screenshots/firewall.png)
+![Windows Firewall](../screenshots/firewall.png)
 
 ---
 
@@ -82,7 +82,7 @@ Firewall protection was enabled for Domain, Private, and Public profiles.
 
 Automatic updates were configured to maintain workstation patch compliance.
 
-![Windows Update](screenshots/win-update.png)
+![Windows Update](../screenshots/win-update.png)
 
 ---
 
@@ -90,7 +90,7 @@ Automatic updates were configured to maintain workstation patch compliance.
 
 Group Policy Objects were linked to specific Organizational Units to enforce role-based access control and workstation security separation.
 
-![GPO Linking Structure](screenshots/gpo-linking-structure.png)
+![GPO Linking Structure](../screenshots/gpo-linking-structure.png)
 
 ---
 

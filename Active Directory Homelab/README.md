@@ -35,7 +35,7 @@ Documentation covering domain deployment, OU structure, users, groups, and DNS c
 
 Documentation covering least privilege implementation, user restrictions, workstation security baselines, and administrative controls.
 
-➡️ [View Security Documentation](docs/security-hardening.md)
+➡️ [View Security Documentation](security-hardening.md)
 
 ![Security Baseline](screenshots/block-ctrl-panel.png)
 
@@ -45,7 +45,7 @@ Documentation covering least privilege implementation, user restrictions, workst
 
 Documentation covering Group Policy Objects, drive mapping, and policy deployment.
 
-➡️ [View Group Policy Documentation](docs/group-policy.md)
+➡️ [View Group Policy Documentation](group-policy.md)
 
 ---
 
@@ -53,7 +53,7 @@ Documentation covering Group Policy Objects, drive mapping, and policy deploymen
 
 Documentation covering home folders, roaming profiles, and PowerShell automation.
 
-➡️ [View File Services Documentation](docs/file-shares.md)
+➡️ [View File Services Documentation](file-shares.md)
 
 ---
 

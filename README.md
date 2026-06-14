@@ -1,40 +1,53 @@
-# IT Portfolio
+## About This Portfolio
 
-This repository contains my IT projects, homelab documentation, and certifications. These projects were completed to develop hands-on experience with Windows administration, troubleshooting, networking, and enterprise infrastructure technologies.
+This repository serves as a centralized IT portfolio showcasing hands-on experience with system administration, infrastructure design, and hardware troubleshooting.
+
+Each project is designed to simulate real-world enterprise environments and demonstrate practical technical skills.
+
+---
 
 ## Projects
 
 ### Active Directory Homelab
 
-A Windows Server 2016 Active Directory environment based on the fictional company Dunder Mifflin.
+A Windows Server 2016 Active Directory environment built to simulate a small enterprise network using a fictional company (Dunder Mifflin).
+
+This project demonstrates end-to-end domain administration including identity management, Group Policy enforcement, and file services.
 
 Skills demonstrated:
 
 * Active Directory Administration
-* DNS
-* Group Policy
-* User & Group Management
+* DNS Configuration
+* Group Policy Management
+* Organizational Unit Design
+* Security Group Management
 * PowerShell Automation
-* Home Folder Deployment
-* Roaming Profiles
+* File Share Administration
+* Windows Security Baselines
 
 Project folder:
 ➡️ [View Project](https://github.com/stephrand/IT-Portfolio/tree/90940132e93b65c5d9a6444c1fbad71488dbcf0a/Active%20Directory%20Homelab)
 
+---
+
 ### PC Upgrade Project
 
-A hardware upgrade project documenting system planning, component installation, BIOS validation, and post-upgrade testing.
+A hardware upgrade project documenting the planning, installation, and validation of PC components.
+
+This includes BIOS configuration, driver installation, system stability checks, and post-upgrade troubleshooting.
 
 Skills demonstrated:
 
 * Hardware Installation
 * BIOS Configuration
 * Driver Management
-* System Validation
-* Troubleshooting
+* System Troubleshooting
+* Hardware Validation Testing
 
 Project folder:
 ➡️ [View Project](PC-Upgrade-Projects/Upgrade-GA-78LMT-S2-PC)
+
+---
 
 ## Technologies Used
 
@@ -46,11 +59,14 @@ Project folder:
 * PowerShell
 * PC Hardware
 * Troubleshooting
+* Windows Security Tools
+
+---
 
 ## Future Projects
 
-* Department File Shares
 * DHCP Configuration
-* Additional Active Directory Features
-* Network Services
-* Security Hardening
+* Advanced Active Directory Security Hardening
+* Software Deployment via Group Policy
+* Network Services Expansion
+* Tiered Administrative Model (Enterprise Access Control)

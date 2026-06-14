@@ -26,7 +26,7 @@ Skills demonstrated:
 * Windows Security Baselines
 
 Project folder:
-➡️ [View Project](https://github.com/stephrand/IT-Portfolio/tree/90940132e93b65c5d9a6444c1fbad71488dbcf0a/Active%20Directory%20Homelab)
+➡️ [View Project](https://github.com/stephrand/IT-Portfolio/tree/main/Active%20Directory%20Homelab)
 
 ---
 
@@ -45,7 +45,7 @@ Skills demonstrated:
 * Hardware Validation Testing
 
 Project folder:
-➡️ [View Project](PC-Upgrade-Projects/Upgrade-GA-78LMT-S2-PC)
+➡️ [View Project](https://github.com/stephrand/IT-Portfolio/tree/main/PC-Upgrade-Projects/Upgrade-GA-78LMT-S2-PC)
 
 ---
 

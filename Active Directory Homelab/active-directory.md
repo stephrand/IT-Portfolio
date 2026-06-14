@@ -52,6 +52,10 @@ Department-based security groups were created to simplify permissions management
 
 ## User Management
 
+![OU Structure](screenshots/domain-users-ou-grp.png)
+
+![Workstations OU](screenshots/workstations-ou.png)
+
 Tasks completed:
 
 * Created departmental Organizational Units

@@ -102,6 +102,8 @@ Example validation showing an Accounting user receiving the Accounting departmen
 
 ![Accounting Shared Drive](screenshots/accounting-shared-drive.png)
 
+![GPResult - Computer](screenshots/gpresult-computer.png)
+
 ---
 
 ## Overall File Services Validation

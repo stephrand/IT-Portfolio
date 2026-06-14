@@ -20,7 +20,7 @@ Deploy and configure an Active Directory environment for a fictional company to 
 
 The domain was organized using Organizational Units (OUs) to separate users by department.
 
-![Active Directory Structure](screenshots/domain-users-ou-grp.png)
+![Active Directory Structure](../screenshots/domain-users-ou-grp.png)
 
 ### Organizational Units
 

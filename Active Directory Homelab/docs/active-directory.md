@@ -52,7 +52,7 @@ Department-based security groups were created to simplify permissions management
 
 ## User Management
 
-![Workstations OU](screenshots/workstations-ou.png)
+![Workstations OU](../screenshots/workstations-ou.png)
 
 Tasks completed:
 

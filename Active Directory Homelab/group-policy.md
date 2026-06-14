@@ -16,18 +16,19 @@ A Group Policy Preference was created to automatically map user home directories
 * Action: Update
 * Path: \DC01\Home%USERNAME%
 
-![GPO Drive Mapping](screenshots/gpo-drive-mapping.png)
-
 ---
 
 ## Policy Validation
 
 Validation steps performed:
 
-* Logged into Windows 10 domain workstation
-* Forced Group Policy update
-* Verified H: drive mapping
-* Confirmed correct user folder access
+* Verified Group Policy application using gpresult
+* Confirmed H: drive mapping
+* Confirmed correct user restrictions applied
+
+![GPO Drive Mapping](screenshots/gpo-drive-mapping.png)
+
+![GPResult - User](screenshots/gpresult-user.png)
 
 ---
 

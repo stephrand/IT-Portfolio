@@ -31,6 +31,16 @@ Documentation covering domain deployment, OU structure, users, groups, and DNS c
 
 ---
 
+### Security Hardening
+
+Documentation covering least privilege implementation, user restrictions, workstation security baselines, and administrative controls.
+
+➡️ [View Security Documentation](docs/security-hardening.md)
+
+![Security Baseline](screenshots/block-ctrl-panel.png)
+
+---
+
 ### Group Policy
 
 Documentation covering Group Policy Objects, drive mapping, and policy deployment.
@@ -49,18 +59,18 @@ Documentation covering home folders, roaming profiles, and PowerShell automation
 
 ## Project Status
 
-| Component                   | Status      |
-| --------------------------- | ----------- |
-| Active Directory Deployment | Complete    |
-| DNS Configuration           | Complete    |
-| User & Group Administration | Complete    |
-| Group Policy Drive Mapping  | Complete    |
-| Home Directories            | Complete    |
-| Roaming Profiles            | Complete    |
-| Departmental File Shares    | In Progress |
-| Least Privilege             | In Progress |
-| Security Baseline           | Planned     |
-| Software Deployment         | Planned     |
+| Component                   | Status   |
+| --------------------------- | -------- |
+| Active Directory Deployment | Complete |
+| DNS Configuration           | Complete |
+| User & Group Administration | Complete |
+| Group Policy Drive Mapping  | Complete |
+| Home Directories            | Complete |
+| Roaming Profiles            | Complete |
+| Departmental File Shares    | Complete |
+| Least Privilege             | Complete |
+| Security Baseline           | Complete |
+| Software Deployment         | Planned |
 
 ---
 
@@ -81,17 +91,24 @@ Windows 10 client successfully joined to the domain and receiving Group Policy s
 * PowerShell Automation
 * User Provisioning
 * File Share Permissions
+* NTFS Permissions
+* Security Group Management
+* Least Privilege Administration
+* Windows Defender Management
+* Windows Firewall Configuration
+* Security Baseline Deployment
 * Domain Authentication
 
 ---
 
 ## Future Improvements
 
-* Departmental File Shares
+* Software Deployment via GPO
 * Password Policies
 * Account Lockout Policies
-* Software Deployment via GPO
+* AppLocker Implementation
 * DHCP Services
 * Remote Desktop Administration
 * Additional Domain Clients
-* Security Hardening
+* WSUS Integration
+* Tiered Administrative Accounts

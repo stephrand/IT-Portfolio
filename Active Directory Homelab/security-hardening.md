@@ -86,6 +86,14 @@ Automatic updates were configured to maintain workstation patch compliance.
 
 ---
 
+## Group Policy Scope and Enforcement
+
+Group Policy Objects were linked to specific Organizational Units to enforce role-based access control and workstation security separation.
+
+![GPO Linking Structure](screenshots/gpo-linking-structure.png)
+
+---
+
 ## Outcome
 
 The environment now incorporates layered security controls through:

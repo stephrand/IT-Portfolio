@@ -23,7 +23,7 @@ A shared folder was created to provide each user with a dedicated home directory
 
 PowerShell was used to automate home directory creation based on Active Directory usernames.
 
-![PowerShell Home Folder Creation](screenshots/powershell-home-folder-creation.png)
+![PowerShell Home Folder Creation](../screenshots/powershell-home-folder-creation.png)
 
 ### Automation Benefits
 
@@ -68,7 +68,7 @@ Departments created:
 * Reception
 * Warehouse
 
-![Department Folder Creation](screenshots/powershell-department-folders.png)
+![Department Folder Creation](../screenshots/powershell-department-folders.png)
 
 ---
 
@@ -76,11 +76,11 @@ Departments created:
 
 Inheritance was disabled to allow granular access control on departmental folders.
 
-![Disable NTFS Inheritance](screenshots/ntfs-disabled-inheritance.png)
+![Disable NTFS Inheritance](../screenshots/ntfs-disabled-inheritance.png)
 
 Permissions were then assigned to department-specific security groups to enforce role-based access.
 
-![Accounting Security Permissions](screenshots/acc-security-permissions.png)
+![Accounting Security Permissions](../screenshots/acc-security-permissions.png)
 
 ---
 
@@ -90,7 +90,7 @@ Departmental drives were deployed using Group Policy Preferences.
 
 Item-Level Targeting was configured to ensure users only received drive mappings associated with their department membership.
 
-![GPO Drive Mapping Targeting](screenshots/gpo-targets.png)
+![GPO Drive Mapping Targeting](../screenshots/gpo-targets.png)
 
 ---
 
@@ -100,9 +100,9 @@ Department users successfully received their departmental drive mappings and wer
 
 Example validation showing an Accounting user receiving the Accounting departmental drive:
 
-![Accounting Shared Drive](screenshots/accounting-shared-drive.png)
+![Accounting Shared Drive](../screenshots/accounting-shared-drive.png)
 
-![GPResult - Computer](screenshots/gpresult-computer.png)
+![GPResult - Computer](../screenshots/gpresult-computer.png)
 
 ---
 

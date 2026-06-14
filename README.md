@@ -45,7 +45,7 @@ Skills demonstrated:
 * Hardware Validation Testing
 
 Project folder:
-➡️ [View Project](https://github.com/stephrand/IT-Portfolio/tree/main/PC-Upgrade-Projects/Upgrade-GA-78LMT-S2-PC)
+➡️ [View Project](PC-Upgrade-Projects/Upgrade-GA-78LMT-S2-PC)
 
 ---
 

@@ -25,7 +25,7 @@ The lab was built to gain hands-on experience with Active Directory administrati
 
 Documentation covering domain deployment, OU structure, users, groups, and DNS configuration.
 
-➡️ [View Active Directory Documentation](docs/active-directory.md)
+➡️ [View Active Directory Documentation](active-directory.md)
 
 ![Domain Controller](screenshots/domain-controller.png)
 

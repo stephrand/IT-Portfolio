@@ -26,9 +26,9 @@ Validation steps performed:
 * Confirmed H: drive mapping
 * Confirmed correct user restrictions applied
 
-![GPO Drive Mapping](screenshots/gpo-drive-mapping.png)
+![GPO Drive Mapping](../screenshots/gpo-drive-mapping.png)
 
-![GPResult - User](screenshots/gpresult-user.png)
+![GPResult - User](../screenshots/gpresult-user.png)
 
 ---
 
